@@ -1,0 +1,5 @@
+This is just to revise the git aspect of the Comprehensive
+Devops traing organized by JOMACS IT barely a year ago.
+This will enable me have the concepts at my finger tips
+in order to excel at interview sessions as I am curently 
+setting the stage to secure some remote jobs. 
